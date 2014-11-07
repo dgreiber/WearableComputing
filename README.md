@@ -38,4 +38,4 @@ Step 5:
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-Write the new tidy set into a text file called tidy2.txt, formatted similarly to the original files.
+Write the new tidy set into a text file called tidydata.txt, formatted similarly to the original files.
